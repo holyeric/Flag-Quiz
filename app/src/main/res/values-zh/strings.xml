@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">國旗遊戲</string>
+    <string name="action_settings">設定</string>
+    <string name="number_of_choices">選擇數量</string>
+    <string name="default_region">北美洲</string>
+    <string name="default_region_message">您必須選擇至少一個地區，預設值是北美洲。</string>
+    <string name="guess_country">這是哪個國家的國旗？</string>
+    <string name="image_description">猜猜這是哪個個國家的國旗？</string>
+    <string name="incorrect_answer">錯囉！</string>
+    <string name="number_of_choices_description">顯示2/4/6/8個選項</string>
+    <string name="question">問題%2$d之%1$d</string>
+    <string name="reset_quiz">重設</string>
+    <string name="restarting_quiz">遊戲將套用你的設定重新開始</string>
+    <string name="results">%1$d題目，猜對率%2$.02f%%</string>
+    <string name="world_regions">地區</string>
+    <string name="world_regions_description">選擇哪個地區的國旗</string>
+</resources>
