@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">國旗遊戲</string>
+    <string name="app_name">猜國旗遊戲</string>
     <string name="action_settings">設定</string>
     <string name="number_of_choices">選擇數量</string>
     <string name="default_region">北美洲</string>
